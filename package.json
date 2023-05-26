@@ -1,7 +1,7 @@
 {
   "urls": [
-    ["phew/__init__.py", "github:deejay/picozero/__init__.py"],
-    ["phew/dns.py", "github:deejay/picozero/picozero.py"],
+    ["picozero/__init__.py", "github:deejay/picozero/picozero/__init__.py"],
+    ["picozero/picozero.py", "github:deejay/picozero/picozero/picozero.py"],
   ],
   "deps": [
   ],
