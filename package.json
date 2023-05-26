@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["phew/__init__.py", "github:deejay/picozero/__init__.py"],
+    ["phew/dns.py", "github:deejay/picozero/picozero.py"],
+  ],
+  "deps": [
+  ],
+  "version": "4.2.99"
+}
